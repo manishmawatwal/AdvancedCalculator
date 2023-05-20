@@ -41,6 +41,6 @@ License
 This calculator code is released under the MIT License. Feel free to use, modify, and distribute the code according to the terms of the license.
 Contact
 
-If you have any questions or suggestions, feel free to reach out to the project maintainer at email@example.com.
+If you have any questions or suggestions, feel free to reach out to the project maintainer at mawatwalmanish1997@gmail.com.
 
 Happy calculating!
