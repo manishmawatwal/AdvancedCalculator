@@ -74,7 +74,7 @@ Happy calculating!
 This will generate a spec file named your_script.spec. You can customize this file if needed, specifying additional options and configurations.
 4. Build the executable: Once you have the spec file, you can build the executable by running the following command:
 
-        pyinstaller your_script.spec
+       pyinstaller your_script.spec
     
 PyInstaller will analyze your script, gather the required dependencies, and package them into a standalone executable. The output will be stored in the dist directory by default.
 5. Test the executable: After the build process is complete, navigate to the dist directory and run your executable to ensure it works as expected. Make sure to test it on a machine that does not have Python or the required dependencies installed.
