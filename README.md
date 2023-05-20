@@ -77,6 +77,9 @@ This will generate a spec file named your_script.spec. You can customize this fi
        pyinstaller your_script.spec
     
 PyInstaller will analyze your script, gather the required dependencies, and package them into a standalone executable. The output will be stored in the dist directory by default.
+
 5. Test the executable: After the build process is complete, navigate to the dist directory and run your executable to ensure it works as expected. Make sure to test it on a machine that does not have Python or the required dependencies installed.
-6. Distribute your application: Now that you have the standalone executable, you can distribute it to others. You can simply provide the executable file or package it with other resources, depending on your application's requirements.
+
+7. Distribute your application: Now that you have the standalone executable, you can distribute it to others. You can simply provide the executable file or package it with other resources, depending on your application's requirements.
+
 It's important to note that PyInstaller does not guarantee that your application will work on every machine or operating system. You might need to consider platform-specific dependencies and configurations if you're targeting multiple platforms.
