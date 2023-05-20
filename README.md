@@ -63,7 +63,9 @@ Happy calculating!
 ## Here's a step-by-step guide to developing an application using PyInstaller:
 
 1. Install PyInstaller: You can install PyInstaller using pip by running the following command:
+
     pip install pyinstaller
+    
 2. Prepare your Python script: Create or modify your Python script that you want to turn into a standalone application. Make sure your script is complete and working as expected.
 3. Create a spec file: A spec file contains instructions for PyInstaller on how to build your application. To create a spec file, you can run the following command:
     pyinstaller your_script.py
