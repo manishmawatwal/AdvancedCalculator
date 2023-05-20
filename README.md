@@ -72,6 +72,7 @@ Happy calculating!
         pyinstaller your_script.py
     
 This will generate a spec file named your_script.spec. You can customize this file if needed, specifying additional options and configurations.
+
 4. Build the executable: Once you have the spec file, you can build the executable by running the following command:
 
        pyinstaller your_script.spec
