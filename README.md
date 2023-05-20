@@ -44,3 +44,19 @@ Contact
 If you have any questions or suggestions, feel free to reach out to the project maintainer at mawatwalmanish1997@gmail.com.
 
 Happy calculating!
+
+## Here is a breakdown of the code:
+1.	Import the required libraries: tkinter, math, tkinter.messagebox, tkinter.ttk, datetime, matplotlib.pyplot, numpy, and sympy.
+2.	Define functions for performing arithmetic operations: add_numbers(), subtract_numbers(), multiply_numbers(), divide_numbers(), remainder_numbers(), sqrt_numbers(), exponent_numbers(), logarithm_numbers(), percentage_numbers(), factorial_number(), and dice().
+3.	Define a function convert_units() for unit conversion using a dictionary conversion_rates that stores conversion rates for various units.
+4.	Define functions pi_constant() and e_constant() to insert the values of pi and Euler's constant into the input field.
+5.	Define a function toggle_theme() to switch between light and dark modes by changing the background color of the window and labels.
+6.	Define functions show_history(), copy_to_clipboard(), and save_history() to display, copy, and save the calculation history, respectively.
+7.	Define functions plot_graph() and solve_equation() for plotting a graph and solving an equation, respectively, using the matplotlib and sympy libraries.
+8.	Create the main window using tkinter.Tk().
+9.	Configure the styling options for the window and set the initial mode to light mode.
+10.	Create the necessary widgets such as labels, entry fields, buttons, and option menus.
+11.	Associate the appropriate functions with the buttons using the command parameter.
+12.	Pack the widgets into the window using the pack() method.
+13.	Run the main event loop using the tkinter.mainloop() function to handle user interactions and update the GUI.
+
